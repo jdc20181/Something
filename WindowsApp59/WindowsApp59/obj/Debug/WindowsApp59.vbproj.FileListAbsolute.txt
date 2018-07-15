@@ -1,0 +1,12 @@
+c:\users\jdc20\documents\visual studio 2017\Projects\WindowsApp59\WindowsApp59\bin\Debug\WindowsApp59.exe.config
+c:\users\jdc20\documents\visual studio 2017\Projects\WindowsApp59\WindowsApp59\bin\Debug\WindowsApp59.exe
+c:\users\jdc20\documents\visual studio 2017\Projects\WindowsApp59\WindowsApp59\bin\Debug\WindowsApp59.pdb
+c:\users\jdc20\documents\visual studio 2017\Projects\WindowsApp59\WindowsApp59\bin\Debug\WindowsApp59.xml
+c:\users\jdc20\documents\visual studio 2017\Projects\WindowsApp59\WindowsApp59\obj\Debug\WindowsApp59.vbprojResolveAssemblyReference.cache
+c:\users\jdc20\documents\visual studio 2017\Projects\WindowsApp59\WindowsApp59\obj\Debug\WindowsApp59.Form1.resources
+c:\users\jdc20\documents\visual studio 2017\Projects\WindowsApp59\WindowsApp59\obj\Debug\WindowsApp59.Resources.resources
+c:\users\jdc20\documents\visual studio 2017\Projects\WindowsApp59\WindowsApp59\obj\Debug\WindowsApp59.vbproj.GenerateResource.cache
+c:\users\jdc20\documents\visual studio 2017\Projects\WindowsApp59\WindowsApp59\obj\Debug\WindowsApp59.vbproj.CoreCompileInputs.cache
+c:\users\jdc20\documents\visual studio 2017\Projects\WindowsApp59\WindowsApp59\obj\Debug\WindowsApp59.exe
+c:\users\jdc20\documents\visual studio 2017\Projects\WindowsApp59\WindowsApp59\obj\Debug\WindowsApp59.xml
+c:\users\jdc20\documents\visual studio 2017\Projects\WindowsApp59\WindowsApp59\obj\Debug\WindowsApp59.pdb
